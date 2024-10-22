@@ -5,3 +5,13 @@ Scrum meeting 2 10/14/2024
 Identifying and Mitigating Potential Roadblocks in the Current Sprint
 This topic encourages team members to proactively discuss any challenges they are facing or anticipate that might prevent them from achieving their sprint goals. 
 It focuses on identifying impediments early, sharing ideas for resolving them, and ensuring everyone is aligned to keep the sprint on track.
+
+Scrum meeting 3 10/21/2024
+In today’s Scrum meeting, the team reviewed the progress from the previous sprint, addressing any remaining blockers related 
+to the design and coding of the parent and child classes. The goals for this sprint were clarified, focusing on establishing 
+the class hierarchy, defining shared methods and attributes for the parent class, and ensuring proper inheritance in the child 
+classes. The lead developer presented the object-oriented design, prompting a discussion on the logic of the class structure, 
+potential redundancies, and future extensibility. The team then outlined the coding plan, assigning tasks for both the parent 
+and child classes, and discussed the integration of test cases. Potential challenges were raised, with the Scrum Master noting 
+action steps to resolve them. The meeting concluded with a confirmation of tasks and commitments for the sprint, ensuring 
+everyone is aligned for the next steps.
