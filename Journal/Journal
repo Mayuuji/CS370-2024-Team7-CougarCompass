@@ -16,3 +16,25 @@ potential redundancies, and future extensibility. The team then outlined the cod
 and child classes, and discussed the integration of test cases. Potential challenges were raised, with the Scrum Master noting 
 action steps to resolve them. The meeting concluded with a confirmation of tasks and commitments for the sprint, ensuring 
 everyone is aligned for the next steps.
+
+Scrum meeting 4 10/28/2024
+In today’s scrum meeting, the team reviewed the requirements and planned the finalization process for the UML sequence diagrams.
+After sharing updates and addressing any blockers, the facilitator reminded everyone of the submission criteria: each 
+diagram must include more than just "User" and "System," involving key system objects to ensure clarity. If the project has 
+less than four use cases, object-object interaction diagrams will be incorporated to enhance design focus, while, for projects
+with more than four use cases, the team decided to prioritize the four most crucial ones. Emphasis was placed on clarity, 
+readability, and consistency in diagram elements, including font sizes, colors, and line weights, to guarantee legibility. 
+Each team member provided feedback on the diagrams, ensuring alignment with use cases and validating interactions. After 
+finalization, the diagrams will be prepared in the designated submission format, and a final quality check will be conducted 
+through a peer review. To wrap up, the team outlined follow-up tasks, including system design documentation, and assigned any 
+action items for the next sprint based on feedback from this session.
+
+Scrum meeting 5 11/4/2024
+In today’s scrum meeting, the team discussed the approach for developing a comprehensive system structural design (level-3) 
+for the course project. The meeting began with a review of the primary objectives: creating a well-organized, modular system 
+model by grouping related concepts and classes into packages or subsystems. The team will identify the key system objects—such 
+as DBAdapter, GameEngine, xManager, Communicator, Coordinator, msgSender, and msgReceiver—ensuring these active objects cover 
+all major functionalities identified during the previous sequence diagram work. Special attention will be paid to defining 
+object and component interfaces, with each class including public operations and implementing abstract superclasses or 
+interfaces where possible. The team also discussed the façade pattern and its potential use to simplify complex subsystems,
+ensuring the design remains clear and maintainable.
